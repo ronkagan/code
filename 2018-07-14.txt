@@ -1,0 +1,14 @@
+2018-07-14
+1 Hour:
+Completed Articles 8/9 (Including CLI/Bash Lesson Review):
+Article: Learning Experience;
+Article: Project Review;
+Article: Setting Up;
+Article: Results;
+Article: Pre-Work;
+Article: Getting Started with Atom (I stuck with Sublime);
+Lesson: Command Line Navigation;
+Article: Setting Up Command Line;
+
+Remaining:
+Article: Setting Up Node.
