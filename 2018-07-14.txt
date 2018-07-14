@@ -1,5 +1,7 @@
 2018-07-14
-1 Hour:
+2 Hour Effort:
+Signed up for Codecademy Build Web APIs from Scratch;
+Created Medium article memorializing commitment and work to focus and share learnings;
 Completed Articles 8/9 (Including CLI/Bash Lesson Review):
 Article: Learning Experience;
 Article: Project Review;
@@ -9,6 +11,8 @@ Article: Pre-Work;
 Article: Getting Started with Atom (I stuck with Sublime);
 Lesson: Command Line Navigation;
 Article: Setting Up Command Line;
+Setup Github for Windows Desktop;
+Resolved discrepency between rooting in cloud and rooting on the machine;
 
 Remaining:
 Article: Setting Up Node.
