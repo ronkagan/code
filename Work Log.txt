@@ -1,5 +1,6 @@
 2018-07-14
-
+38m Effort:
+Complete https://www.codecademy.com/courses/learn-javascript-introduction/lessons/introduction-to-javascript/exercises/review-types-operators
 
 22m Effort:
 5:40
