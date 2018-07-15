@@ -1,5 +1,14 @@
 2018-07-15
 
+1:15: Resume 'Control Flow' Lesson.
+
+15 Minute Effort:
+Drafting a post for 'Day 3'
+
+Work on 'Control Flow'.
+
+12:36: end break.
+
 11:52: completed quiz with score of 100% :) <nerd-glasses>.
 
 11:46: completed 'Dog Years' exercise, asked Advisor (Francis) about why to consider the alternative to the operator '*=', which helped me understand how else one might go about writing the project.
