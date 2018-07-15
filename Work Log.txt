@@ -1,4 +1,20 @@
 2018-07-14
+
+
+22m Effort:
+5:40
+Watch https://s3.amazonaws.com/codecademy-content/articles/nodejs/nodejs.mp4
+5:43
+Recreate effort shown in video.
+6:00
+Leave for Dinner
+10:18
+Use Git Bash to execute newly saved file :)
+10:22
+Finish effort
+
+
+
 2 Hour Effort:
 Signed up for Codecademy Build Web APIs from Scratch;
 Created Medium article memorializing commitment and work to focus and share learnings;
