@@ -1,4 +1,27 @@
 2018-07-15
+
+
+
+```
+* Variables hold reusable data in a program.
+* JavaScript will throw an error if you try to reassign const variables.
+* You can reassign variables that you create with the let keyword.
+* Unset variables store the primitive data type undefined.
+Mathematical assignment operators make it easy to calculate a new value and assign it to the same variable.
+* The + operator is used to interpolate (combine) multiple strings.
+In JavaScript ES6, backticks (`) and ${} are used to interpolate values into a string.
+```
+
+10:41: Completed String Interpolation II;
+
+10:36: Completed 'String Interpolation';
+
+10:31: Completed 'Mathematical Assignment Operators';
+
+10:25am: completed 'Variables','Create a Variable: const','Create a Variable: let','Undefined';
+
+10:15am: Begin https://www.codecademy.com/courses/learn-javascript-introduction/lessons/variables/exercises/intro-variables
+
 30m Effort:
 Day 2 post on Medium reflecting on mistakes made in Day 1.
 
