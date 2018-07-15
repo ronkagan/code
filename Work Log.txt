@@ -1,3 +1,12 @@
+2018-07-15
+
+
+20m Effort:
+Setup OneDrive on Work Desktop;
+Install Node.js
+Install GitHub for Windows;
+Install Git Bash.
+
 2018-07-14
 38m Effort:
 Complete https://www.codecademy.com/courses/learn-javascript-introduction/lessons/introduction-to-javascript/exercises/review-types-operators
