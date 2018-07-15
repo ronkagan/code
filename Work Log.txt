@@ -1,6 +1,10 @@
 2018-07-15
 
+11:52: completed quiz with score of 100% :) <nerd-glasses>.
 
+11:46: completed 'Dog Years' exercise, asked Advisor (Francis) about why to consider the alternative to the operator '*=', which helped me understand how else one might go about writing the project.
+
+11:11: Completed 'Kelvin Weather' exercise;
 
 ```
 * Variables hold reusable data in a program.
