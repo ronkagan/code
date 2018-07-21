@@ -1,3 +1,7 @@
+2018-07-21
+
+I've let the work log go a bit... It is redundant with GitHub commits themselves!
+
 2018-07-15
 
 2:50: Finished 'Control Flow' Day 3 lesson
